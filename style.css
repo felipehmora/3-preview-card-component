@@ -1,0 +1,129 @@
+h1{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    margin-left: 70px;
+    font-size: 60px;
+}
+
+p{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+}
+
+
+.orange-card{
+    float: left;
+    width: 600px;
+    height: 1000px;
+    background-color: #E28525;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.green-card{
+    float: left;
+    width: 600px;
+    height: 1000px;
+    background-color: #026369;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.light-green-card{
+    display: flex;
+    margin: 0;
+    width: 600px;
+    height: 1000px;
+    background-color: #00403F;
+}
+
+.dark-green-card{
+    width: 600px;
+    height: 1000px;
+    background-color: #00403F;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
+.icon-sedans{
+    width: 90px;
+    height: 60px;
+    margin-top: 70px;
+    margin-left: 70px;
+}
+
+.ln-button-sedans{
+    background-color: white;
+    width: 300px;
+    height: 70px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    border-style: none;
+    margin-left: 70px;
+    margin-top: 200px;
+    color: #E28525;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    
+}
+
+div{
+    padding: 2em;
+}
+
+.suvs-title{
+
+}
+
+.ln-button-suvs{
+    background-color: white;
+    width: 300px;
+    height: 70px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    border-style: none;
+    margin-left: 70px;
+    margin-top: 200px;
+    color: #016972;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+
+ .ln-button-luxury{
+    background-color: white;
+    width: 300px;
+    height: 70px;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    border-style: none;
+    margin-left: 70px;
+    margin-top: 150px;
+    color: #00403F;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    
+} 
